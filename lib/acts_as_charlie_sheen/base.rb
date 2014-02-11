@@ -20,4 +20,3 @@ module ActsAsCharlieSheen
     end
   end
 end
-view raw
